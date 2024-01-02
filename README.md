@@ -1,6 +1,6 @@
 
 <p align="center">
-  
+  <a href="https://arifszn.github.io/gitprofile">
     <img src="ddi.png" alt="Preview" width="60%"/>
   
   <br/>
