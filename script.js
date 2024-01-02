@@ -3,7 +3,7 @@ window.onload = function() {
   let hrBox = document.getElementById("hr-box");
   let minBox = document.getElementById("min-box");
   let secBox = document.getElementById("sec-box");
-  let endDate = new Date(2024, 0, 1, 0, 0, 0); // New Year's Day 2024
+  let endDate = new Date(2025, 0, 1, 0, 0, 0); // New Year's Day 2025
   let endTime = endDate.getTime();
   let i;
 
