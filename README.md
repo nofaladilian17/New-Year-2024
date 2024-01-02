@@ -2,7 +2,7 @@
 <p align="center">
   
     <img src="ddi.png" alt="Preview" width="60%"/>
-  </a>
+  
   <br/>
   
 </p>
