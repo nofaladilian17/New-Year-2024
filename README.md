@@ -1,11 +1,7 @@
 
-<p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="ddi.png" alt="Preview" width="60%"/>
-  
-  <br/>
-  
-</p>
+<div style="text-align: center;">
+    <img src="ddi.png" alt="Preview" style="width: 60%;" />
+</div>
 
 ### Setting up locally
 
