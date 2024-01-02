@@ -19,8 +19,7 @@ window.onload = function() {
 
     if (endTime < todayTime) {
       clearInterval(i);
-      document.querySelector(".countdown").innerHTML = "<h1>Bye 2023, Welcome 2024! I hope for a great year ahead.</h1>";
-      document.querySelector(".message").innerHTML = "<h2>I hope that in 2024 I will be a better me than before.</h2>";
+      document.querySelector(".countdown").innerHTML = "<h1>Bye 2024, Welcome 2025! I hope for a great year ahead.</h1>";
     } else {
       let daysLeft = Math.floor(remainingTime / oneDay);
       let hrsLeft = Math.floor((remainingTime % oneDay) / oneHr);
