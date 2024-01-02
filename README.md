@@ -1,9 +1,9 @@
 
 ### Setting up locally
 
-- Clone the project and change directory.
+- Clone the project 
 
   ```shell
-  git clone https://github.com/arifszn/gitprofile.git
-  cd gitprofile
+  git clone https://github.com/nofaladilian17/New-Year-2024.git
+  cd New-Year-2024
   ```
