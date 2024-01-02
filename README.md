@@ -1,7 +1,7 @@
 
-<div style="display: flex; justify-content: center;">
-    <img src="ddi.png" alt="Preview" style="width: 60%;" />
-</div>
+<p align="center">
+  <img src="ddi.png" alt="Preview" width="60%" />
+</p>
 
 ### Setting up locally
 
